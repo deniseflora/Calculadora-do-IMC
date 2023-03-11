@@ -1,4 +1,7 @@
 # Calculadora do IMC
+![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/deniseflora/Calculadora-do-IMC)
+[![made-with-Markdown](https://img.shields.io/badge/Markdown-black.svg)](http://commonmark.org)
 
 ## Objetivo
 
