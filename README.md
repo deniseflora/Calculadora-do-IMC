@@ -1,7 +1,6 @@
 # Calculadora do IMC
-![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/deniseflora/Calculadora-do-IMC)
-[![made-with-Markdown](https://img.shields.io/badge/Markdown-black.svg)](http://commonmark.org)
+
+![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)![GitHub top language](https://img.shields.io/github/languages/top/deniseflora/Calculadora-do-IMC)![GitHub language count](https://img.shields.io/github/languages/count/deniseflora/Calculadora-do-IMC)![GitHub](https://img.shields.io/github/license/deniseflora/Calculadora-do-IMC)
 
 ## Objetivo
 
