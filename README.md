@@ -2,19 +2,19 @@
 
 ![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)![GitHub top language](https://img.shields.io/github/languages/top/deniseflora/Calculadora-do-IMC)![GitHub language count](https://img.shields.io/github/languages/count/deniseflora/Calculadora-do-IMC)![GitHub](https://img.shields.io/github/license/deniseflora/Calculadora-do-IMC)
 
-## Objetivo
+## Descrição
 
 - Esse projeto tem como objetivo a criação de uma calculadora de IMC utilizando HTML 5, CSS 3 e Javascript.
 
 - Foi desenvolvido para o aprendizado e aplicação na prática dos conceitos básicos dessas linguagens.
 
-## Layout
+## Funcionalidades
 
 Uma breve demonstração da calculadora está descrita logo abaixo, apresentando todas as suas funcionalidades:
 
 ![IMC](IMC.gif)
 
-## Definição
+## Definição de IMC
 
 >O **índice de massa corporal (IMC)** é uma medida internacional usada para calcular se uma pessoa está no peso ideal, levando em conta o seu peso `(kg)` e sua altura `(m)`. Indicada para avaliar o estado nutricional em adultos, tendo como os níveis recomendados de `18,5-24,9` como um IMC normal [OMS](https://www.who.int/europe/news-room/fact-sheets/item/a-healthy-lifestyle---who-recommendations).
 
@@ -45,6 +45,14 @@ Segundo [SANTOS](https://brasilescola.uol.com.br/saude-na-escola/limitacoes-imc.
 - Mulheres e homens possuem padrões de gordura corporal diferentes. A mulher geralmente apresenta uma maior porcentagem de gordura.
 
 - A gravidez gera resultados errados, pois o peso proveniente da gestação pode ser confundido com obesidade.
+
+## Status
+
+:white_check_mark: Concluído.
+
+## Autor
+
+Desenvolvido por Denise Flora
 
 ## Referências
 
